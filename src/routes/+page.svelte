@@ -1,4 +1,4 @@
-<h1 class="text-3xl font-bold underline">Hello world!</h1>
+<h1 class="text-3xl font-bold underline">Home Page before login!</h1>
 
 <style lang="postcss">
 	:global(html) {
