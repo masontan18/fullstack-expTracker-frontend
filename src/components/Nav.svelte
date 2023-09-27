@@ -83,11 +83,6 @@
 		justify-content:end;
 		align-items: center;
 	}
-
-	.user-logo {
-		height: 40px;
-	}
-
 	.small-title {
 		font-size: 13px;
 	}
